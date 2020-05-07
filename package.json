@@ -8,7 +8,6 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@expo/react-native-action-sheet": "^0.3.1",
     "moment": "^2.18.1"
   },
   "deprecated": false,
